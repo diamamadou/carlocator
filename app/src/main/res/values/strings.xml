@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Car Locator</string>
+    <string name="add_locator">Add Locator</string>
+    <string name="locators">Locators</string>
+</resources>
